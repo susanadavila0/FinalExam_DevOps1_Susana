@@ -1,0 +1,37 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1730777942986
+	},
+	"usage": true,
+	"analytics-uuid": "fd954173-da24-4881-953b-004226ed9400",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "108758492994796849951",
+		"email": "susanadavilacarmona@gmail.com",
+		"email_verified": true,
+		"at_hash": "5-hAYvcABYCaAf9I1T4GaA",
+		"iat": 1730778376,
+		"exp": 1730781976
+	},
+	"tokens": {
+		"expires_at": 1730781980139,
+		"access_token": "ya29.a0AeDClZCDC1sq_Z0yosVJu5XacBcoYnhsy2BKGtT7OKT-DfUG4Epsb_NI-tj6X3ZdegM9O36FuygOs2fI45eITYjRNYuaFQw-XTk4WnHdxrCXL44MwrMn4Bp2OQEJ-aEgqe8mQ8PNOWbA8eeGBcACuiBWo3nbbCSV4e-0zLF-jrzn1waCgYKASoSARISFQHGX2Mi7U_Ii9ZJzw1MW88PqL0dhw0181",
+		"expires_in": 3599,
+		"refresh_token": "1//06jlwwcYp1B2rCgYIARAAGAYSNwF-L9IrQyObuXu6RAPeNDvwya25HQpvaL7BV_QCqhTvxBMtes5zp6X3YnN1Ghr-WKmnnd8It-0",
+		"scope": "https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/userinfo.email openid",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImU4NjNmZTI5MmZhMmEyOTY3Y2Q3NTUxYzQyYTEyMTFiY2FjNTUwNzEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA4NzU4NDkyOTk0Nzk2ODQ5OTUxIiwiZW1haWwiOiJzdXNhbmFkYXZpbGFjYXJtb25hQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiNS1oQVl2Y0FCWUNhQWY5STFUNEdhQSIsImlhdCI6MTczMDc3ODM3NiwiZXhwIjoxNzMwNzgxOTc2fQ.Wl2eKZpA2xaAKDiDw2od2uh7J0icf651WvJevKwhRBdAk9wvwC-WN3I554L4MfIaBPrbJSkJKGlc8ZiaNHW_6CJ7KB65VdlA8rwXdxa8IlaKec8D2hPF_S-garwhmFPChhFqKgaAlGJGvQuEsmvel3pNfKLuFQNOJeaRqoND-1S-Tgaln7K3MDh2V8s61fN528-Uqu_TfxFgLMz374VFOQ-SUJfANRm5bjXTbeNSPkq4yIiMFzvfedCtR44_cdCqF_wfy6rbRuIisi-biNmMa6HGcVQAIHZSVMMYSiNH8M6mt9t9pV_VFQr4UjC22V4QdtC9_4QB7O5Mg96R1Cxutw"
+	},
+	"activeProjects": {
+		"/home/devasc": "testing-replica-7b057"
+	}
+}
